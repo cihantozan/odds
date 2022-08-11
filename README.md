@@ -11,4 +11,5 @@
 - pip install requests
 
 ## Run code
-- python c:\odds\odds.py 2022-08-10 2022-08-01
+- cd c:\odds
+- python odds.py 2022-08-10 2022-08-01
