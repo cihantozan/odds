@@ -1,13 +1,13 @@
-# odds logs
+# Odds Logs
 
-# Install Python
+## Install Python
 - https://www.python.org/downloads/
 
-# install libraries from command line
+## install libraries from command line
 - pip install bs4
 - pip install json
 - pip install lxml
 - pip install requests
 
-# run code
+## run code
 - python c:\odds\odds.py 2022-08-10 2022-08-01
