@@ -2,6 +2,7 @@
 
 ## Install Python
 - https://www.python.org/downloads/
+- add python to environment variables işaretlenecek
 
 ## Install libraries from command line
 - pip install bs4
